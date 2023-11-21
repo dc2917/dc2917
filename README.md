@@ -1,10 +1,10 @@
-- 👋 Hi, I'm @dc2917
-- 👀 I'm interested in ...
-- 🌱 I'm currently learning ...
-- 💞 I'm looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-dc2917/dc2917 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I'm @dc2917. I'm a research software engineer within Research Computing Services at Imperial College London.
+- I'm interested in:
+  - Physics/astrophysics
+  - Numerical methods, simulation, visualisation
+  - Parallel computing
+  - Guitar/music technology
+- I typically work on:
+  - Numerical simulations
+  - Graphical user interfaces
+  - Reinventing the wheel
