@@ -5,6 +5,7 @@
   - Parallel computing
   - Guitar/music technology
 - I typically work on:
-  - Numerical simulations
-  - Graphical user interfaces
+  - Numerical simulations (C, Python)
+  - Graphical user interfaces (C: GTK, Python: Qt)
+  - Miscellaneous personal projects
   - Reinventing the wheel
