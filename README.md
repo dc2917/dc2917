@@ -1,10 +1,10 @@
-- Hi, I'm @dc2917. I'm a research software engineer within Research Computing Services at Imperial College London.
-- I'm interested in:
+- 👋 Hi, I'm @dc2917. I'm a research software engineer within Research Computing Services at Imperial College London.
+- 👀 I'm interested in:
   - Physics/astrophysics
   - Numerical methods, simulation, visualisation
   - Parallel computing
   - Guitar/music technology
-- I typically work on:
+- 🧑‍💻 I typically work on:
   - Numerical simulations
   - Graphical user interfaces
   - Miscellaneous personal projects
