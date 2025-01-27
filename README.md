@@ -4,10 +4,9 @@
   - Numerical methods, simulation, visualisation
   - Parallel computing
   - Guitar/music technology
-- 🧑‍💻 I typically work on:
+- 🧑‍💻 I enjoy working on:
   - Numerical simulations
   - Graphical user interfaces
-  - Miscellaneous personal projects
   - Reinventing the wheel
 
 <h4 align="left">Languages and tools I use:</h4>
